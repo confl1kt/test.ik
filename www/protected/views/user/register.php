@@ -1,0 +1,1 @@
+<?php echo $this->renderPartial('/user/_form', array('model'=>$model)); ?>
